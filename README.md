@@ -1,3 +1,4 @@
+[![MasterHead](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Somaya Al Sadia Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
