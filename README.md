@@ -1,24 +1,105 @@
-[![MasterHead](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)](https://rishavchanda.io)
+# 👋 Hi, I'm Somaya Al Sadia Rahman
 
-<h1 align="center">Hi 👋, I'm Somaya Al Sadia Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyarah&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiyarah" /> </p>
+### AI-Augmented Full-Stack Software Engineer | Application Engineer | Software Developer
 
-- 🌱 I’m currently learning **React Native, JavaScript, React Js**
+I’m a software engineer from Bangladesh with **2.5+ years of professional software development experience**, specializing in enterprise application development, business workflow automation, and API integrations.
 
-- 📫 How to reach me **sumaiya.sadiarahman@gmail.com**
+I enjoy building practical software solutions, exploring backend engineering, and using AI to make software development more efficient.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/somaya-rahman-a41b20213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somaya-rahman-a41b20213/" height="30" width="40" /></a>
+My experience includes working on enterprise insurance platforms, integrating REST APIs, developing business workflows, and collaborating on production applications.
+
+- 💼 **Experience:** 2.5+ years in software engineering
+- 🏢 **Previously:** Associate Software Engineer / Software Engineer
+- 🌍 **Location:** Bangladesh
+- 🔭 **Currently working on:** Full-stack projects and AI-powered applications
+- 🌱 **Currently learning:** TypeScript, backend architecture, RAG systems, and AI engineering
+- 💡 **Interests:** Full-stack development, AI/ML, system design, and automation
+- 📫 **Email:** [sumaiya.sadiarahman@gmail.com](mailto:sumaiya.sadiarahman@gmail.com)
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/somaya-rahman-a41b20213/)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Professional Experience
+<p>
+<img src="https://img.shields.io/badge/Unqork-Platform-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XML-0060A8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enterprise%20Workflows-444444?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaiyarah&show_icons=true&locale=en&layout=compact" alt="sumaiyarah" /></p>
+### Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,mysql,postgres,mongodb" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumaiyarah&show_icons=true&locale=en" alt="sumaiyarah" /></p>
+### AI & Cloud Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=aws,python" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-AI%20Integration-orange?style=for-the-badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyarah&" alt="sumaiyarah" /></p>
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 💻 What I Work On
+
+- **Enterprise Application Development:** Building and maintaining business applications and complex workflows.
+- **API Integration:** Connecting applications with external services through REST APIs.
+- **Backend Development:** Exploring server-side architecture, data handling, and application logic.
+- **AI-Powered Applications:** Exploring LLM integrations, AI agents, and Retrieval-Augmented Generation (RAG).
+- **Full-Stack Development:** Building applications across frontend, backend, and database layers.
+
+---
+
+## 🚀 Currently Exploring
+
+I'm continuously expanding my engineering skills through hands-on projects.
+
+- Building end-to-end full-stack applications.
+- Developing REST APIs with Node.js and Python.
+- Exploring AI engineering and RAG pipelines.
+- Learning database design and query optimization.
+- Improving software architecture, testing, and deployment practices.
+- Exploring AI-assisted software engineering workflows.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiyarah&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyarah&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyarah&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/somaya-rahman-a41b20213/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sumaiya.sadiarahman@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+⭐ *Building, learning, and growing — one project at a time.*
